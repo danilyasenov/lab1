@@ -37,6 +37,8 @@ class Program
         int Count = 0;
         int[] mass = new int[10];
         Console.WriteLine("Next ");
+       //asasdadssad
+        
         for (int i = 0; i < 10; i++)
         {
             mass[i] = random.Next(0, 10);
